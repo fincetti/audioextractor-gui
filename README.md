@@ -23,6 +23,11 @@ Sigue los siguientes pasos para instalar y ejecutar la aplicación.
 
      ```bash
      sudo apt update
+     ```
+     ```bash
+     sudo apt install build-essential git libssl-dev libfaac-dev libmp3lame-dev libx264-dev libxvidcore-dev libvorbis-dev libtheora-dev
+     ```
+     ```bash
      sudo apt install ffmpeg
      ```
 
