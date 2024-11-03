@@ -46,7 +46,7 @@ Sigue los siguientes pasos para instalar y ejecutar la aplicación.
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/fincetti/audioextractor-gui.git
+   git clone https://github.com/rodolfocasan/audioextractor-gui.git
    cd audioextractor-gui
    ```
 
